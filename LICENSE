@@ -1,0 +1,22 @@
+CHANGELOG
+[1.0.0] - YYYY-MM-DD
+Added
+Initial release of customtext_mz.
+Added AppText widget with the following features:
+Customize text color, size, font weight, letter spacing, and alignment.
+Support for custom font families (default is Poppins).
+Option to pass a custom TextStyle for advanced styling.
+Maximum line control with the maxline parameter.
+Supports TextAlign for text alignment.
+Replace YYYY-MM-DD with the release date of your package. Each time you update the package, increment the version number (following Semantic Versioning) and describe the changes in the corresponding section.
+
+For example, a future update might look like this:
+
+[1.1.0] - YYYY-MM-DD
+Added
+Added support for text decoration (e.g., underline, strikethrough).
+Fixed
+Resolved an issue with text alignment not applying correctly.
+[1.0.1] - YYYY-MM-DD
+Fixed
+Fixed a typo in the documentation for the family parameter.
